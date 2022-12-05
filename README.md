@@ -16,4 +16,4 @@
 
 <h3> Screen VIEW </h3> </br>
 
-![](screen.gif) </br>
+![](Screen.gif) </br>
